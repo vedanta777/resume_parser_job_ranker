@@ -1,0 +1,26 @@
+TANVI RAO  
+Email: tanvi.rao.dev@gmail.com | Phone: +91 98760 43210  
+LinkedIn: linkedin.com/in/tanvirao | GitHub: github.com/tanvirao
+
+PROFESSIONAL SUMMARY  
+Passionate Software Engineer with 3+ years of experience in backend development, system design, and automation. Seeking to contribute to innovative solutions in fast-paced environments.
+
+WORK EXPERIENCE  
+Backend Engineer — Zomato Ltd.  
+July 2021 – Present  
+- Designed RESTful APIs using Spring Boot and MongoDB  
+- Reduced order routing latency by 30% through optimized caching  
+
+Software Developer Intern — Mindtree  
+Jan 2021 – June 2021  
+- Built web components using Angular for CRM dashboard  
+- Improved responsiveness across all devices  
+
+EDUCATION  
+B.Tech in Information Technology — NIT Trichy (2017 – 2021) | CGPA: 9.12  
+
+SKILLS  
+Java, Spring Boot, MongoDB, Redis, Git, Docker, REST APIs  
+
+CERTIFICATIONS  
+Oracle Certified Java Programmer

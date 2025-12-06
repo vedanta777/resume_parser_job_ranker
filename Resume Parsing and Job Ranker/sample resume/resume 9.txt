@@ -1,0 +1,26 @@
+KARTHIK IYER  
+Email: karthik.iyer.cloud@gmail.com | Phone: +91 90909 11122  
+
+SUMMARY  
+Certified DevOps Engineer with 4+ years of experience in cloud automation, CI/CD pipeline design, and infrastructure-as-code.  
+
+WORK EXPERIENCE  
+DevOps Engineer — PhonePe  
+June 2021 – Present  
+- Automated deployment using Jenkins + Docker  
+- Monitored microservices with Prometheus and Grafana  
+
+Cloud Engineer — HCL Technologies  
+July 2019 – May 2021  
+- Migrated legacy apps to AWS Lambda  
+- Handled cost optimization for EC2 clusters  
+
+EDUCATION  
+B.Tech in Electrical Engineering — VJTI, Mumbai | 2015 – 2019  
+
+TECH STACK  
+AWS, Terraform, Jenkins, Kubernetes, Docker, Bash, Python  
+
+CERTIFICATIONS  
+AWS Certified Solutions Architect  
+HashiCorp Certified: Terraform Associate

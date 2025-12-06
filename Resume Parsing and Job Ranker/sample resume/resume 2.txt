@@ -1,0 +1,22 @@
+DIYA RATHI
+Email: diya.rathi@gmail.com | Phone: +91 91234 56789
+
+EDUCATION
+Bachelor of Science, Statistics
+Delhi University | 2017 – 2020
+
+PROFESSIONAL EXPERIENCE
+Data Analyst — Wipro
+Aug 2021 – Present
+- Created dashboards using Tableau and PowerBI
+- Reduced reporting time by 35% using SQL optimization
+
+Intern — Fractal Analytics
+Jan 2021 – June 2021
+- Performed exploratory data analysis using Python and Pandas
+
+TECHNICAL SKILLS
+Excel, PowerBI, Tableau, SQL, Python, R
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate

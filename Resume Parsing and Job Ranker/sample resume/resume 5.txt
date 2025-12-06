@@ -1,0 +1,20 @@
+KABIR DESHMUKH
+Phone: +91 98888 33333 | Email: kabird.art@gmail.com
+Portfolio: www.kabirdeshmukh.com
+
+EDUCATION
+B.A. in Media and Communication
+Symbiosis Institute, Pune | 2015 – 2018
+
+EXPERIENCE
+Freelance UX/UI Designer & Developer
+2019 – Present
+- Designed mobile-first websites for 30+ clients across 7 countries
+- Built full-stack applications using React, Figma, Firebase, and Node.js
+
+PROJECTS
+- NGO Donation Tracker Website
+- Habit-Tracking App with Visual Reports
+
+TECH STACK
+Figma, React, Node.js, Firebase, Adobe XD, WordPress, Python (basic)

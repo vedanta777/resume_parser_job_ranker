@@ -1,0 +1,291 @@
+Python
+C
+C++
+Java
+JavaScript
+TypeScript
+HTML
+CSS
+Bootstrap
+Tailwind CSS
+React
+React Native
+Next.js
+Node.js
+Express.js
+Angular
+Vue.js
+Django
+Flask
+FastAPI
+Spring Boot
+Kotlin
+Swift
+SQL
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+Firebase
+Oracle
+NoSQL
+Data Structures
+Algorithms
+Object Oriented Programming
+Operating Systems
+Computer Networks
+Database Management Systems
+Software Engineering
+Version Control
+Git
+GitHub
+GitLab
+Bitbucket
+API Development
+REST API
+GraphQL
+Microservices
+Cloud Computing
+AWS
+Google Cloud
+Microsoft Azure
+Heroku
+DigitalOcean
+DevOps
+Docker
+Kubernetes
+Jenkins
+CI/CD
+Shell Scripting
+Linux
+Ubuntu
+Automation
+System Design
+Software Architecture
+Unit Testing
+Integration Testing
+Selenium
+PyTest
+JUnit
+Postman
+Agile
+Scrum
+Kanban
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Natural Language Processing
+Computer Vision
+Neural Networks
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Feature Engineering
+Model Evaluation
+Data Preprocessing
+Scikit-Learn
+TensorFlow
+Keras
+PyTorch
+OpenCV
+Hugging Face
+Transformers
+Text Classification
+Sentiment Analysis
+Chatbot Development
+Speech Recognition
+Image Classification
+Object Detection
+Time Series Forecasting
+Data Analysis
+Data Visualization
+Exploratory Data Analysis
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Power BI
+Tableau
+Excel
+Google Sheets
+Statistics
+Probability
+Hypothesis Testing
+Regression Analysis
+Clustering
+Classification
+Big Data
+Hadoop
+Spark
+Databricks
+ETL
+Data Warehousing
+Snowflake
+Airflow
+Apache Kafka
+Data Pipelines
+SQL Optimization
+Business Analytics
+Financial Analysis
+Market Research
+Product Analytics
+A/B Testing
+Business Intelligence
+CRM Tools
+ERP Systems
+Project Management
+Leadership
+Strategic Planning
+Problem Solving
+Critical Thinking
+Communication
+Collaboration
+Presentation Skills
+Time Management
+Adaptability
+Creativity
+Teamwork
+Negotiation
+Networking
+Public Speaking
+Decision Making
+Emotional Intelligence
+Customer Relationship Management
+Design Thinking
+Product Design
+UI Design
+UX Design
+Prototyping
+Wireframing
+Figma
+Adobe XD
+Canva
+Photoshop
+Illustrator
+After Effects
+Premiere Pro
+Graphic Design
+Visual Design
+3D Modeling
+Blender
+Animation
+Video Editing
+Motion Graphics
+Game Development
+Unity
+Unreal Engine
+C#
+Game Design
+Simulation
+AR
+VR
+IoT
+Robotics
+Embedded Systems
+Microcontrollers
+Arduino
+Raspberry Pi
+Automation Systems
+Sensor Networks
+Hardware Integration
+Control Systems
+Cybersecurity
+Network Security
+Penetration Testing
+Ethical Hacking
+Firewalls
+Cryptography
+Information Security
+Risk Assessment
+Incident Response
+Compliance
+Blockchain
+Smart Contracts
+Solidity
+Web3
+Ethereum
+Decentralized Applications
+Cryptocurrency
+FinTech
+LegalTech
+EdTech
+HealthTech
+AgriTech
+Startups
+Entrepreneurship
+Innovation
+Venture Capital
+Financial Modeling
+Business Strategy
+Market Analysis
+Investment Research
+Product Management
+Roadmapping
+Feature Prioritization
+User Research
+User Stories
+Metrics Analysis
+Customer Success
+Operations Management
+Process Optimization
+Quality Assurance
+Lean Six Sigma
+Supply Chain Management
+Human Resource Management
+Talent Acquisition
+Recruitment
+Organizational Behavior
+Psychology
+Counseling
+Mentorship
+Education
+Tutoring
+Teaching
+Training
+Curriculum Design
+Academic Writing
+Research Methodology
+Technical Writing
+Documentation
+Report Writing
+Creative Writing
+Content Writing
+Copywriting
+SEO
+Digital Marketing
+Google Ads
+Facebook Ads
+Instagram Marketing
+Email Marketing
+Social Media Management
+Brand Management
+Public Relations
+Influencer Marketing
+Analytics Tools
+Google Analytics
+Keyword Research
+Campaign Management
+Lead Generation
+Sales
+Cold Calling
+Pitching
+Customer Support
+CRM Tools
+Zoho
+Salesforce
+HubSpot
+ServiceNow
+MS Office
+Word
+PowerPoint
+Excel
+Google Workspace
+Slack
+Notion
+Trello
+Asana
+Monday.com
+ClickUp
+Jira
+Confluence

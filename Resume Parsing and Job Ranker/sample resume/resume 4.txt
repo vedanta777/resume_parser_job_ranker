@@ -1,0 +1,21 @@
+NEHA PATEL
+Email: neha.patel@devmail.com | Mobile: +91 90000 11111
+
+SUMMARY
+Experienced backend developer with a focus on scalable systems and clean architecture.
+
+EDUCATION
+M.Tech in Computer Engineering
+NIT Surat | 2016 – 2018
+
+WORK EXPERIENCE
+Senior Software Engineer — Flipkart
+Oct 2019 – Present
+- Built microservices architecture for checkout platform
+- Managed MongoDB clusters and Redis caching
+
+Software Developer — Mindtree
+Aug 2018 – Sep 2019
+
+SKILLS
+Java, Spring Boot, MongoDB, Kafka, AWS, Docker, Jenkins, Git

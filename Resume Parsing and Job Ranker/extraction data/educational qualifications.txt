@@ -1,0 +1,26 @@
+High School
+Intermediate
+Bachelor of Technology
+Bachelor of Science
+Bachelor of Engineering
+Bachelor of Arts
+Bachelor of Computer Applications
+Master of Technology
+Master of Science
+Master of Engineering
+Master of Arts
+Master of Computer Applications
+Doctor of Philosophy
+Ph.D
+MBA
+B.Tech
+B.Sc
+B.E
+B.A
+BCA
+M.Tech
+M.Sc
+M.E
+M.A
+MCA
+Diploma

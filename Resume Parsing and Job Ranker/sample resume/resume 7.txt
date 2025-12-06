@@ -1,0 +1,30 @@
+ADITYA KULKARNI  
+Email: adityakulkarni@outlook.com | Phone: +91 90123 45678  
+Portfolio: aditya-kulkarni.com
+
+EDUCATION  
+B.E. in Computer Engineering  
+Pune Institute of Computer Technology | 2019 – 2023  
+CGPA: 8.85/10  
+
+PROJECTS  
+1. Stock Price Predictor  
+   - Built a time-series LSTM model for forecasting NIFTY50 index  
+   - Tools: Python, TensorFlow, Pandas  
+
+2. Resume Matcher Tool  
+   - Parsed resumes using NLP and ranked them against job descriptions  
+   - Used spaCy, regex, and fuzzy matching  
+
+INTERNSHIPS  
+Data Science Intern — Quantiphi  
+May 2022 – Aug 2022  
+- Built EDA pipeline in Jupyter Notebooks  
+- Applied clustering techniques for customer segmentation  
+
+SKILLS  
+Python, SQL, Pandas, scikit-learn, Tableau, NLTK, Power BI  
+
+ACHIEVEMENTS  
+- Finalist, EY Techathon 2022  
+- Google Data Analytics Certificate

@@ -1,0 +1,21 @@
+AARAV MEHTA
+Email: aarav.mehta@example.com | Phone: +91 98765 43210
+LinkedIn: linkedin.com/in/aaravmehta
+
+EDUCATION
+B.Tech in Computer Science
+IIIT Hyderabad, 2021 – 2025
+CGPA: 8.9/10
+
+WORK EXPERIENCE
+Software Development Intern — Infosys Ltd.
+May 2023 – July 2023
+- Built internal dashboards using React and Node.js
+- Automated PDF parsing with Python scripts and improved efficiency by 20%
+
+PROJECTS
+- Resume Parser using NLP (Python, spaCy, regex)
+- Movie Recommendation Engine (Collaborative Filtering, Python)
+
+SKILLS
+Python, Java, React, MySQL, Git, Machine Learning, NLP

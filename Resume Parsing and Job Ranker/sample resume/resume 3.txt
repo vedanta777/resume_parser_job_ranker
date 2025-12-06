@@ -1,0 +1,19 @@
+SHREYAS NAMBIAR
+Phone: 9876543210 | Email: shreyas.nambiar@outlook.com
+
+EDUCATION
+B.E. in Electronics and Communication
+BITS Pilani – Goa Campus | 2020 – 2024
+GPA: 9.2/10
+
+RESEARCH
+Research Assistant — BITS AI Lab
+Feb 2023 – May 2023
+- Worked on NLP-based emotion detection models (Transformer-based)
+
+PROJECTS
+- Sentiment Classifier using BERT and HuggingFace Transformers
+- Edge Detection using CNN (OpenCV + TensorFlow)
+
+SKILLS
+Python, C++, NLP, PyTorch, Transformers, HuggingFace, Scikit-learn
